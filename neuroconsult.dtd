@@ -3,14 +3,13 @@
 [
 <!ELEMENT neurologyconsultform (patientinformation, request, report)>
 <!ELEMENT patientinformation (#PCDATA)>
-<!ELEMENT patientinformation (casenumber, patientname, species, breed, sex, dob, age, weight)>
+<!ELEMENT patientinformation (casenumber, patientname, species, breed, sex, dob, weight)>
 <!ELEMENT casenumber (#PCDATA)>
 <!ELEMENT patientname (#PCDATA)>
 <!ELEMENT species (#PCDATA)>
 <!ELEMENT breed (#PCDATA)>
 <!ELEMENT sex (#PCDATA)>
 <!ELEMENT dob (#PCDATA)>
-<!ELEMENT age (#PCDATA)>
 <!ELEMENT weight (#PCDATA)>
 <!ELEMENT request (#PCDATA)>
 <!ELEMENT request (question1, question2, question3, question4, question5, question6, question7)>

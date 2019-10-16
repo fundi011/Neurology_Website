@@ -6,9 +6,8 @@
         <patientname> </patientname>
         <species> </species>
         <breed> </breed>
-        <sex>	</sex>	
-        <dob> </dob
-        <age> </age>
+        <sex> </sex>	
+        <dob> </dob>
         <weight></weight>
     <request> </request>
         <question1> </question1>
