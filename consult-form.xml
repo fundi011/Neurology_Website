@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE neuroconsult SYSTEM "neuroconsult.dtd">
+<!DOCTYPE neurologyconsultform SYSTEM "neurologyconsultform.dtd">
 <neurologyconsultform>
     <patientinformation> Patient Information </patientinformation>
         <casenumber> 75214896 </casenumber>
@@ -12,7 +12,7 @@
     <request> Request </request>
         <question1> Cluster seizures </question1>
 	    <question2> Neurological evaluation </question2>
-        <question3> First seizure December 2011. Bloodword at that time normal. Presenting today fo 3 grand mal seizures in the past 24 hours. </question3>
+        <question3> First seizure December 2011. Bloodword at that time normal. Presenting today for 3 grand mal seizures in the past 24 hours. </question3>
         <question4> ER </question4>
         <question5> Hospitalization </question5>
         <question6>  </question6>
@@ -20,11 +20,17 @@
     <report> Report </report>
         <findings> Findings </findings>
             <mentation> Mentation </mentation>
+                <description1>Appropriate</description1>
             <cranialnerves> Cranial Nerves </cranialnerves>
+                <description2> Normal, reduced/absent menance in the right eye</description2>
             <gait> Gait </gait>
+                <description3>Proprioceptive ataxia, circles to the left, wheelbarrow delayed on right side</description3>
             <reflexes> Spinal reflexes </reflexes>
-            <proprioception> Conscious proprioception </proprioception>
+                <description4>withdrawal normal x4</description4>
+            <proprioception> Postural reactions </proprioception>
+                <description5>conscious proprioception normal x 4</description5>
             <palpation> Spinal palpation </palpation>
+                <description6> No pain on palpation </description6>
         <localization> Localization </localization>
         <diagnosis> Differential Diagnosis </diagnosis>
         <recommendation> Recommendation </recommendation>
