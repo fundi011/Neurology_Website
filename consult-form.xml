@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
 <!DOCTYPE neuroconsult SYSTEM "neuroconsult.dtd">
 <neurologyconsultform>
     <patientinformation> Patient Information </patientinformation>
@@ -10,7 +9,7 @@
         <sex> Male  </sex>	
         <dob> Jun 15, 2009 </dob>
         <weight> 19 kg </weight>
-    <request> </request>
+    <request> Request </request>
         <question1> Cluster seizures </question1>
 	    <question2> Neurological evaluation </question2>
         <question3> First seizure December 2011. Bloodword at that time normal. Presenting today fo 3 grand mal seizures in the past 24 hours. </question3>
@@ -18,14 +17,14 @@
         <question5> Hospitalization </question5>
         <question6>  </question6>
         <question7> </question7>
-    <report> </report>
+    <report> Report </report>
         <findings> Findings </findings>
-            <mentation> </mentation>
-            <cranialnerves> </cranialnerves>
-            <gait> </gait>
-            <reflexes> </reflexes>
-            <proprioception> </proprioception>
-            <palpation> </palpation>
+            <mentation> Mentation </mentation>
+            <cranialnerves> Cranial Nerves </cranialnerves>
+            <gait> Gait </gait>
+            <reflexes> Spinal reflexes </reflexes>
+            <proprioception> Conscious proprioception </proprioception>
+            <palpation> Spinal palpation </palpation>
         <localization> Localization </localization>
         <diagnosis> Differential Diagnosis </diagnosis>
         <recommendation> Recommendation </recommendation>
