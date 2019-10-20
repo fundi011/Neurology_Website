@@ -13,4 +13,13 @@
         Weight: <xsl:value-of select="/neurologyconsultform/patientinformation/weight"/>
     </xsl:template>
     
+    <xsl:template match="/">
+        Mentation: <xsl:value-of select="/neurologyconsultform/report/findings/mentation/description1"/>
+        Cranial Nerves: <xsl:value-of select="/neurologyconsultform/report/findings/cranialnerves/description2"/>
+        Gait: <xsl:value-of select="/neurologyconsultform/report/findings/gait/description3"/>
+        Spinal Reflexes: <xsl:value-of select="/neurologyconsultform/report/findings/reflexes/description4"/>
+        Postural Reactions: <xsl:value-of select="/neurologyconsultform/report/findings/proprioception/description5"/>
+        Spinal Palpation: <xsl:value-of select="/neurologyconsultform/report/findings/palpation/description6"/>
+    </xsl:template>
+    
     </xsl:stylesheet>
