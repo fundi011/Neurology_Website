@@ -4,13 +4,13 @@
         <html>
         <body>
             <h3>Neurology Consult Form</h3>
-            <p>Case number: <xsl:value-of select="/neurologyconsultform/patientinformation/casenumber"/></p>
-            <p>Patient name: <xsl:value-of select="/neurologyconsultform/patientinformation/patientname"/></p>
-            <p>Species: <xsl:value-of select="/neurologyconsultform/patientinformation/species"/></p>
-            <p>Breed: <xsl:value-of select="/neurologyconsultform/patientinformation/breed"/></p>
-            <p>Sex: <xsl:value-of select="/neurologyconsultform/patientinformation/sex"/></p>
-            <p>DOB: <xsl:value-of select="/neurologyconsultform/patientinformation/dob"/></p>
-            <p>Weight: <xsl:value-of select="/neurologyconsultform/patientinformation/weight"/></p>
+            <p>Case number: <xsl:value-of select="neurologyconsultform/patientinformation/casenumber"/></p>
+            <p>Patient name: <xsl:value-of select="neurologyconsultform/patientinformation/patientname"/></p>
+            <p>Species: <xsl:value-of select="neurologyconsultform/patientinformation/species"/></p>
+            <p>Breed: <xsl:value-of select="neurologyconsultform/patientinformation/breed"/></p>
+            <p>Sex: <xsl:value-of select="neurologyconsultform/patientinformation/sex"/></p>
+            <p>DOB: <xsl:value-of select="neurologyconsultform/patientinformation/dob"/></p>
+            <p>Weight: <xsl:value-of select="neurologyconsultform/patientinformation/weight"/></p>
             
            <h3>Findings</h3>
             <p>Mentation: <xsl:value-of select="/neurologyconsultform/report/findings/mentation/description1"/></p>
