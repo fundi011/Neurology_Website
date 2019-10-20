@@ -11,9 +11,7 @@
         Sex: <xsl:value-of select="/neurologyconsultform/patientinformation/sex"/>
         DOB: <xsl:value-of select="/neurologyconsultform/patientinformation/dob"/>
         Weight: <xsl:value-of select="/neurologyconsultform/patientinformation/weight"/>
-    </xsl:template>
-    
-    <xsl:template match="/">
+ 
         Mentation: <xsl:value-of select="/neurologyconsultform/report/findings/mentation/description1"/>
         Cranial Nerves: <xsl:value-of select="/neurologyconsultform/report/findings/cranialnerves/description2"/>
         Gait: <xsl:value-of select="/neurologyconsultform/report/findings/gait/description3"/>
