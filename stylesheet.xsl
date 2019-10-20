@@ -12,7 +12,7 @@
             <p>DOB: <xsl:value-of select="neurologyconsultform/patientinformation/dob"/></p>
             <p>Weight: <xsl:value-of select="neurologyconsultform/patientinformation/weight"/></p>
             
-           <h3>Findings</h3>
+           <h4>Findings</h4>
             <p>Mentation: <xsl:value-of select="/neurologyconsultform/report/findings/mentation/description1"/></p>
             <p>Cranial Nerves: <xsl:value-of select="/neurologyconsultform/report/findings/cranialnerves/description2"/></p>
             <p>Gait: <xsl:value-of select="/neurologyconsultform/report/findings/gait/description3"/></p>

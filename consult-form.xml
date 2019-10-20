@@ -3,13 +3,13 @@
 <?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
 <neurologyconsultform>
     <patientinformation> Patient Information </patientinformation>
-        <casenumber> 75214896 </casenumber>
-        <patientname> Mishka </patientname>
-        <species> Canine </species>
-        <breed> Border Collie </breed>
-        <sex> Male  </sex>	
-        <dob> Jun 15, 2009 </dob>
-        <weight> 19 kg </weight>
+        <casenumber>75214896</casenumber>
+        <patientname>Mishka</patientname>
+        <species>Canine</species>
+        <breed>Border Collie</breed>
+        <sex>Male</sex>	
+        <dob>Jun 15, 2009</dob>
+        <weight>19 kg</weight>
     <request> Request </request>
         <question1> Cluster seizures </question1>
 	    <question2> Neurological evaluation </question2>
