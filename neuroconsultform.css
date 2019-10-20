@@ -6,6 +6,13 @@ neurologyconsultform {
     text-align: left;
 }
 
+
+patientinformation {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
 casenumber{
     color: black;
     display: block;
