@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE neurologyconsultform SYSTEM "neurologyconsultform.dtd">
-<?xml-stylesheet type="text/css" href="neuroconsultform.css"?>
 <?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
 <neurologyconsultform>
     <patientinformation>Patient Information</patientinformation>
