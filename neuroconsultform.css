@@ -3,4 +3,47 @@ neurologyconsultform {
     font-family: Arial;
     font-size: large;
     color: black;
+    text-align: left;
+}
+
+casenumber{
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+patientname{
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+species{
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+breed{
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+sex{
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+dob{
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+weight{
+    color: black;
+    display: block;
+    font-size: 100%;
 }
