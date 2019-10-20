@@ -4,21 +4,21 @@
         <html>
         <body>
             <h3>Neurology Consult Form</h3>
-            Case number: <xsl:value-of select="/neurologyconsultform/patientinformation/casenumber"/>
-            Patient name: <xsl:value-of select="/neurologyconsultform/patientinformation/patientname"/>
-            Species: <xsl:value-of select="/neurologyconsultform/patientinformation/species"/>
-            Breed: <xsl:value-of select="/neurologyconsultform/patientinformation/breed"/>
-            Sex: <xsl:value-of select="/neurologyconsultform/patientinformation/sex"/>
-            DOB: <xsl:value-of select="/neurologyconsultform/patientinformation/dob"/>
-            Weight: <xsl:value-of select="/neurologyconsultform/patientinformation/weight"/>
+            <p>Case number: <xsl:value-of select="/neurologyconsultform/patientinformation/casenumber"/></p>
+            <p>Patient name: <xsl:value-of select="/neurologyconsultform/patientinformation/patientname"/></p>
+            <p>Species: <xsl:value-of select="/neurologyconsultform/patientinformation/species"/></p>
+            <p>Breed: <xsl:value-of select="/neurologyconsultform/patientinformation/breed"/></p>
+            <p>Sex: <xsl:value-of select="/neurologyconsultform/patientinformation/sex"/></p>
+            <p>DOB: <xsl:value-of select="/neurologyconsultform/patientinformation/dob"/></p>
+            <p>Weight: <xsl:value-of select="/neurologyconsultform/patientinformation/weight"/></p>
             
            <h3>Findings</h3>
-            Mentation: <xsl:value-of select="/neurologyconsultform/report/findings/mentation/description1"/>
-            Cranial Nerves: <xsl:value-of select="/neurologyconsultform/report/findings/cranialnerves/description2"/>
-            Gait: <xsl:value-of select="/neurologyconsultform/report/findings/gait/description3"/>
-            Spinal Reflexes: <xsl:value-of select="/neurologyconsultform/report/findings/reflexes/description4"/>
-            Postural Reactions: <xsl:value-of select="/neurologyconsultform/report/findings/proprioception/description5"/>
-            Spinal Palpation: <xsl:value-of select="/neurologyconsultform/report/findings/palpation/description6"/>
+            <p>Mentation: <xsl:value-of select="/neurologyconsultform/report/findings/mentation/description1"/></p>
+            <p>Cranial Nerves: <xsl:value-of select="/neurologyconsultform/report/findings/cranialnerves/description2"/></p>
+            <p>Gait: <xsl:value-of select="/neurologyconsultform/report/findings/gait/description3"/></p>
+            <p>Spinal Reflexes: <xsl:value-of select="/neurologyconsultform/report/findings/reflexes/description4"/></p>
+            <p>Postural Reactions: <xsl:value-of select="/neurologyconsultform/report/findings/proprioception/description5"/></p>
+            <p>Spinal Palpation: <xsl:value-of select="/neurologyconsultform/report/findings/palpation/description6"/></p>
         </body>
         </html>
     </xsl:template>
