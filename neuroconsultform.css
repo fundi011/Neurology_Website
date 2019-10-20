@@ -13,44 +13,176 @@ patientinformation {
     font-size: 100%;
 }
 
-casenumber{
+casenumber {
     color: black;
     display: block;
     font-size: 100%;
 }
 
-patientname{
+patientname {
     color: black;
     display: block;
     font-size: 100%;
 }
 
-species{
+species {
     color: black;
     display: block;
     font-size: 100%;
 }
 
-breed{
+breed {
     color: black;
     display: block;
     font-size: 100%;
 }
 
-sex{
+sex {
     color: black;
     display: block;
     font-size: 100%;
 }
 
-dob{
+dob {
     color: black;
     display: block;
     font-size: 100%;
 }
 
-weight{
+weight {
     color: black;
     display: block;
     font-size: 100%;
 }
+
+Request {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question1 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question2 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question3 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question4 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question5 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question6 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+question7 {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+report {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+findings {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+mentation {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+cranialnerves {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+gait {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+reflexes {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+proprioception {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+palpation {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+localization {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+body {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+diagnosis {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+primary {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+recommendation {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
+treatment {
+    color: black;
+    display: block;
+    font-size: 100%;
+}
+
