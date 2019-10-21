@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
 <!ELEMENT neurologyconsultform ANY>
+<!ATTLIST neurologyconsultform title CDATA #IMPLIED>
 <!ELEMENT patientinformation ANY>
 <!ELEMENT casenumber (#PCDATA)>
 <!ELEMENT patientname (#PCDATA)>
