@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE neurologyconsultform SYSTEM "neurologyconsultform.dtd">
-<?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
+<?xml-stylesheet type="text/css" href="neuroconsultform.css"?>
 <neurologyconsultform title="Neurology Consult Form">
     <patientinformation>Patient Information</patientinformation>
         <casenumber>75214896</casenumber>
