@@ -2,35 +2,36 @@
 <!DOCTYPE neurologyconsultform SYSTEM "neurologyconsultform.dtd">
 <neurologyconsultform title="Neurology Consult Form">
     <patientinformation>Patient Information</patientinformation>
-        <casenumber>75214896</casenumber>
-        <patientname>Mishka</patientname>
-        <species>Canine</species>
-        <breed>Border Collie</breed>
-        <sex>Male</sex>	
-        <dob>Jun 15, 2009</dob>
-        <weight>19 kg</weight>
+    <casenumber>75214896</casenumber>
+    <patientname>Mishka</patientname>
+    <species>Canine</species>
+    <breed>Border Collie</breed>
+    <sex>Male</sex>
+    <dob>Jun 15, 2009</dob>
+    <weight>19 kg</weight>
     <request>Request</request>
-        <question1>Cluster seizures</question1>
-	    <question2>Neurological evaluation</question2>
-        <question3>First seizure December 2011. Bloodword at that time normal. Presenting today for 3 grand mal seizures in the past 24 hours.</question3>
-        <question4>ER</question4>
-        <question5>Hospitalization</question5>
-        <question6></question6>
-        <question7></question7>
+    <question1>Cluster seizures</question1>
+    <question2>Neurological evaluation</question2>
+    <question3>First seizure December 2011. Bloodword at that time normal. Presenting today for 3
+        grand mal seizures in the past 24 hours.</question3>
+    <question4>ER</question4>
+    <question5>Hospitalization</question5>
+    <question6/>
+    <question7/>
     <report>Report</report>
-        <findings>Findings</findings>
-            <mentation>Appropriate</mentation>
-            <cranialnerves>Normal, reduced/absent menance in the right eye</cranialnerves>
-            <gait>Proprioceptive ataxia, circles to the left, wheelbarrow delayed on right side</gait>
-            <reflexes>withdrawal normal x4</reflexes>
-            <proprioception>Conscious proprioception normal x 4</proprioception>
-            <palpation>No pain on palpation</palpation>
-        <localization>Localization</localization>
-            <body>left cerebrum</body>
-        <diagnosis>Differential Diagnosis</diagnosis>
-            <primary>tumor</primary>
-            <secondary>stroke</secondary>
-        <recommendation>Recommendation</recommendation>
-            <imaging>MRI +/- CSF Tap</imaging>
-            <treatment>Phenobarbital +/- Prednisone</treatment>
+    <findings>Findings</findings>
+    <mentation>Appropriate</mentation>
+    <cranialnerves>Normal, reduced/absent menance in the right eye</cranialnerves>
+    <gait>Proprioceptive ataxia, circles to the left, wheelbarrow delayed on right side</gait>
+    <reflexes>withdrawal normal x4</reflexes>
+    <proprioception>Conscious proprioception normal x 4</proprioception>
+    <palpation>No pain on palpation</palpation>
+    <localization>Localization</localization>
+    <body>left cerebrum</body>
+    <diagnosis>Differential Diagnosis</diagnosis>
+    <primary>tumor</primary>
+    <secondary>stroke</secondary>
+    <recommendation>Recommendation</recommendation>
+    <imaging>MRI +/- CSF Tap</imaging>
+    <treatment>Phenobarbital +/- Prednisone</treatment>
 </neurologyconsultform>
